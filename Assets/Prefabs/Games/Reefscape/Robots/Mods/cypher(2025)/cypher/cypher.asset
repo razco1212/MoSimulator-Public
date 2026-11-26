@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1aff2b59de2c4a0c96d6b848990b46af, type: 3}
+  m_Name: cypher
+  m_EditorClassIdentifier: 
+  teamNumber: 4661
+  teamName: cypher
+  robotImage: {fileID: 21300000, guid: dbd105cad3f47964894e606ff444eedb, type: 3}
+  mainRobot:
+    displayName: cypher
+    robotPrefab: {fileID: 3976777679808698956, guid: bece7d6d5b2ce06498fe5f6c1f4cc607,
+      type: 3}
+    mainMenuPrefab: {fileID: 1450775754941200232, guid: 3cc2c0a844bed2d44a88e136f794910d,
+      type: 3}
+    spawnSelectionPrefab: {fileID: 1312610126243226343, guid: 082f2b4f47b1d914f8247bf7506b4bce,
+      type: 3}
+    preloadGamePiece: {fileID: 2185987706872048638, guid: 970bdf84a203d9a4b8dc602974341a07,
+      type: 3}
+    tutorialCards:
+    - {fileID: 7307012911442995531, guid: 3abf8bb54cf87f94da60292e01fbeafc, type: 3}
+    - {fileID: 524145624529823390, guid: 5ec0dcf49af83344b9d24716329d4b26, type: 3}
+    - {fileID: 2997096736423518192, guid: 3df946dbc65e33b438b80e825d5bc4ac, type: 3}
+  alternateRobots: []
+  autoClimbs: 0
